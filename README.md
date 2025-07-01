@@ -1,4 +1,8 @@
-# SchedulEd
+Download all file npm install
+npm start 
+project report is attached below 
+[StudentTeacherBooking_Report.pdf](https://github.com/user-attachments/files/21005047/StudentTeacherBooking_Report.pdf)
+
 
 ## Overview
 Whether online or via traditional queueing methods, booking appointment systems have become increasingly popular. Many businesses now use web-based appointment systems to improve efficiency, reduce wait times, and serve more clients. This project presents a web-based appointment booking system tailored to the academic environment. It empowers students and lecturers to easily keep track of their appointment times, no matter where they are, using any web or mobile device. In addition, the system allows students to send messages that specify the appointment’s purpose and timing, facilitating smooth communication.
