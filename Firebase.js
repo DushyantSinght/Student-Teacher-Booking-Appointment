@@ -22,13 +22,13 @@ import {
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAnaVEHzudRwR0h0qXo9WcwKQXdrNGEuRI",
-  authDomain: "studentteacherbooking-ce0cd.firebaseapp.com",
-  projectId: "studentteacherbooking-ce0cd",
-  storageBucket: "studentteacherbooking-ce0cd.appspot.com",
-  messagingSenderId: "112009086523",
-  appId: "1:112009086523:web:e59ff891d848c7c4f97e1e",
-  measurementId: "G-H2H5RESZH6"
+  apiKey: "your own key",
+  authDomain: "your own key",
+  projectId: "your own key",
+  storageBucket: "your own key",
+  messagingSenderId: "your own key",
+  appId: "your own key",
+  measurementId: "your own key"
 };
 
 // Initialize Firebase
